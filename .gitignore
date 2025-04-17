@@ -9,6 +9,7 @@
 # production
 /build
 /dist
+/public/webviewer
 
 # misc
 .DS_Store
